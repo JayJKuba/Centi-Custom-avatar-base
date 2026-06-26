@@ -19,6 +19,8 @@ localchat is toggleable by pressing `\` by default
 
 ## Customization
 
+to use your own custom skin just name the custom skin file "Skin.png" and replace the placeholder skin inside the avatar folder!
+
 To modify the gradient colors go into `colorLerpName.lua` and change `local colors` to a list of colors you want to use.
 
 To modify the localchat open `PostmansLocalSpeechHelper.lua` and modify it however you need (some parts might be a bit complicated but you'll figure it out :D)
