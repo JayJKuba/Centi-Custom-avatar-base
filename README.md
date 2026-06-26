@@ -13,7 +13,7 @@ In this repo you will find 4 different folders with 4 slightly different avatar 
 
 The Slim tag means that the avatar uses the slim type of minecraft skins instead of the default one.
 
-The (+ localchat and gradient) tag means that the avatar includes the modified local chat script, the gradient script and an action wheel.
+The (+ localchat and gradient) tag means that the avatar includes the modified local chat script, the gradient script and an action wheel which lets you toggle armor visibility and also turn on a "fun" mode for the localchat.
 
 ## Customization
 
