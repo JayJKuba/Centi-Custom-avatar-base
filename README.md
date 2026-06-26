@@ -15,6 +15,8 @@ The Slim tag means that the avatar uses the slim type of minecraft skins instead
 
 The (+ localchat and gradient) tag means that the avatar includes the modified local chat script, the gradient script and an action wheel which lets you toggle armor visibility and also turn on a "fun" mode for the localchat.
 
+localchat is toggleable by pressing `\` by default
+
 ## Customization
 
 To modify the gradient colors go into `colorLerpName.lua` and change `local colors` to a list of colors you want to use.
