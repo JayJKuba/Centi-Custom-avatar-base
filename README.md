@@ -19,7 +19,7 @@ localchat is toggleable by pressing `\` by default
 
 ## Customization
 
-to use your own custom skin just name the custom skin file "Skin.png" and replace the placeholder skin inside the avatar folder!
+To use your own custom skin just name the custom skin file "Skin.png" and replace the placeholder "Skin.png" inside the avatar folder!
 
 To modify the gradient colors go into `colorLerpName.lua` and change `local colors` to a list of colors you want to use.
 
