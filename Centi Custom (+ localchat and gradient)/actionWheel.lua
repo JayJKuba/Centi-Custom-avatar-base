@@ -17,15 +17,19 @@ end
 
 actionPage:newAction()
     :title("Armor Toggle")
-    :item("minecraft:barrier")
-    :toggleItem("minecraft:iron_chestplate")
-    :onToggle(function(state)
-        if state then
-            pings.armorShow()
-        else
+    :item("minecraft:iron_chestplate")
+    :hoverItem("minecraft:barrier")
+    :color(0.8, 0.8, 0.8)
+    :hoverColor(1, 0.3, 0.3)
+    :onLeftClick(function()
+        if armorVisible then
             pings.armorHide()
+        else
+            pings.armorShow()
         end
     end)
+
+
 
 
 actionPage:newAction()

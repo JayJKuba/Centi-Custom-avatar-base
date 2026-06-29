@@ -5,8 +5,6 @@ local squapi = require("SquAPI")
 --hide vanilla model
 vanilla_model.PLAYER:setVisible(false)
 
-
-
 local tails = {
 	models.model.root.Body.Tail,
 	models.model.root.Body.Tail.Tail2,

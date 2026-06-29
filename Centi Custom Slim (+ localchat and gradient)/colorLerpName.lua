@@ -18,7 +18,7 @@ local ColorLerp = {}
 
 local username = ""
 function events.entity_init()
-username = player:getName()			-- change this to your custom name string
+username = "Centi"				-- ur name string
 end
 
 local colors = {"#070707", "#900000", "#070707"} 	-- this array can be of any length		{"#5BCEFA","#F5A9B8","#FFFFFF","#F5A9B8"} for trans flag
